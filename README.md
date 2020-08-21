@@ -10,4 +10,4 @@ I've implemented Image captioning with vanilla RNNs and LSTMs on the [COCO datas
 * [ImageCaption Generator with TF](https://github.com/Aryan05/ImageCaptionGenerator/blob/master/CaptionGeneratorTENSORFLOW.ipynb) 
 
 ### Project Made By
-*Aryan Karn
+Aryan Karn
