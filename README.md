@@ -8,6 +8,3 @@ I've implemented Image captioning with vanilla RNNs and LSTMs on the [COCO datas
 * [Vanilla RNN Captioning](https://github.com/Aryan05/ImageCaptionGenerator/blob/master/RNN_Captioning.ipynb)
 * [LSTM Captioning](https://github.com/Aryan05/ImageCaptionGenerator/blob/master/LSTM_Captioning.ipynb)
 * [ImageCaption Generator with TF](https://github.com/Aryan05/ImageCaptionGenerator/blob/master/CaptionGeneratorTENSORFLOW.ipynb) 
-
-### Project Made By
-Aryan Karn
